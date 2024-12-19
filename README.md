@@ -9,10 +9,13 @@ My master's project is about exploratory data analysis of genomes and epigenomes
 Aside from the main project, I'm looking to work on 2-3 personal projects. Ideally these would be analyzing/presenting open access biological data and practice the programming skills necessary for my main project. I will also post any class assignments that can go public.
 
 🤔 I’m looking for help with:
-- Any suggestions on pop gen tools that analyze quantitative data input (methylation β-value) instead of categorical data (ACTGs)
+- Any suggestions on pop gen tools that analyze quantitative data input (methylation β-value) instead of categorical data (ACTGs)?
 
 💬 Ask me about:
-- horses! cattle! and maybe wildlife
+- population genetics
+- DNA methylation
+- horses, cattle, and maybe some wildlife
+- equestrian
 - Eastern asian culture
 - Mandarin
 
