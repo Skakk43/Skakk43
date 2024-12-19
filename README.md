@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I'm Skakk! I'm a master's student in animal science learning bioinformatics 🌱.
+
 🎯 The objective is applying to bioinformatics PhD at the end of the year.
 
 My master's project is about exploratory data analysis of genomes and epigenomes of wildlife populations. Our lab has many cool samples like 🐈 bobcat, 🦊 red fox, 🐺 coyote, and 🦝 raccoon from North America. I'm really excited!
